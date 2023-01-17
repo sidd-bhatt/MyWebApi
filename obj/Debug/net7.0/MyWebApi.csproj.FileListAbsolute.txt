@@ -1,0 +1,174 @@
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\appsettings.json
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\MyWebApi.exe
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\MyWebApi.deps.json
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\MyWebApi.runtimeconfig.json
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\MyWebApi.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\MyWebApi.pdb
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Google.Protobuf.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Web.Cors.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Web.Http.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\MySql.Data.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\ZstdNet.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CDAC\.NET\endmodule\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.AssemblyReference.cache
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.AssemblyInfoInputs.cache
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.AssemblyInfo.cs
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.CoreCompileInputs.cache
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApi.props
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi.props
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApi.props
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\scopedcss\bundle\MyWebApi.styles.css
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.CopyComplete
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.dll
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\refint\MyWebApi.dll
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.pdb
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\MyWebApi.genruntimeconfig.cache
+D:\CDAC\.NET\endmodule\MyWebApi\obj\Debug\net7.0\ref\MyWebApi.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\appsettings.json
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\MyWebApi.exe
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\MyWebApi.deps.json
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\MyWebApi.runtimeconfig.json
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\MyWebApi.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\MyWebApi.pdb
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Google.Protobuf.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Web.Cors.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Web.Http.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\MySql.Data.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\ZstdNet.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepository\exam\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.AssemblyReference.cache
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.AssemblyInfoInputs.cache
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.AssemblyInfo.cs
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.CoreCompileInputs.cache
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApi.props
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi.props
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApi.props
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\scopedcss\bundle\MyWebApi.styles.css
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.CopyComplete
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.dll
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\refint\MyWebApi.dll
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.pdb
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\MyWebApi.genruntimeconfig.cache
+D:\GitRepository\exam\MyWebApi\obj\Debug\net7.0\ref\MyWebApi.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.AssemblyReference.cache
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.AssemblyInfoInputs.cache
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.AssemblyInfo.cs
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.CoreCompileInputs.cache
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\refint\MyWebApi.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.pdb
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\MyWebApi.exe
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\MyWebApi.deps.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\MyWebApi.runtimeconfig.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\MyWebApi.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\MyWebApi.pdb
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Web.Cors.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Web.Http.Cors.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.MyWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.MyWebApi.props
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApi.props
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MyWebApi.props
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\scopedcss\bundle\MyWebApi.styles.css
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.csproj.CopyComplete
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\MyWebApi.genruntimeconfig.cache
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\obj\Debug\net7.0\ref\MyWebApi.dll
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\frontend\package-lock.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\frontend\package.json
+C:\Users\siddh\OneDrive\Desktop\New folder\MyWebApi\bin\Debug\net7.0\frontend\public\manifest.json
